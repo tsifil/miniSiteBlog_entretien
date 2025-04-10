@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction à Next.js",
+    "description": "Une vue d'ensemble de Next.js et comment il facilite le développement avec React.",
+    "image": "/img/1.png",
+    "content": "Next.js est un framework React qui permet de rendre des pages côté serveur, ce qui améliore les performances et le SEO. Il propose une architecture basée sur les fichiers et permet la génération de pages statiques ou dynamiques.",
+    "createdAt": "2025-04-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Les Hooks en React",
+    "description": "Découvrez les Hooks de React pour mieux gérer l'état et les effets dans vos composants.",
+    "image": "/img/2.png",
+    "content": "Les Hooks permettent d'utiliser l'état et d'autres fonctionnalités de React sans avoir besoin de classes. 'useState', 'useEffect' et 'useContext' sont quelques-uns des Hooks les plus populaires.",
+    "createdAt": "2025-04-02T12:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Comprendre les Promesses en JavaScript",
+    "description": "Un guide sur les Promesses en JavaScript pour gérer les appels asynchrones.",
+    "image": "/img/3.jpg",
+    "content": "Les promesses en JavaScript sont utilisées pour gérer les appels asynchrones, notamment ceux qui interagissent avec des APIs ou d'autres processus lents. Apprenez à gérer les erreurs et les résultats avec les promesses.",
+    "createdAt": "2025-04-03T09:00:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Les bases du CSS Grid",
+    "description": "Un guide pratique pour maîtriser CSS Grid et créer des mises en page modernes.",
+    "image": "/img/4.png",
+    "content": "CSS Grid est une puissante technologie pour créer des mises en page 2D complexes. Apprenez à créer des grilles dynamiques et flexibles sans utiliser de frameworks CSS.",
+    "createdAt": "2025-04-04T14:45:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Pourquoi utiliser TypeScript ?",
+    "description": "Découvrez les avantages de TypeScript dans vos projets JavaScript.",
+    "image": "/img/5.png",
+    "content": "TypeScript est un sur-ensemble de JavaScript qui ajoute des types statiques à votre code, ce qui peut rendre vos applications plus robustes et moins sujettes aux erreurs.",
+    "createdAt": "2025-04-05T11:15:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Introduction à l'Intelligence Artificielle",
+    "description": "Un article d'introduction sur les concepts clés de l'intelligence artificielle et son impact sur l'industrie.",
+    "image": "/img/6.jpg",
+    "content": "L'intelligence artificielle (IA) permet de simuler des capacités humaines telles que la compréhension, l'apprentissage, et la prise de décision. Découvrez ses applications dans divers secteurs.",
+    "createdAt": "2025-04-06T10:30:00Z"
+  },
+  
+  {
+    "id": "7",
+    "title": "Créer une API REST avec Node.js",
+    "description": "Un tutoriel pour créer une API RESTful avec Node.js et Express.",
+    "image": "/img/7.jpg",
+    "content": "Dans ce guide, nous allons vous montrer comment créer une API RESTful en utilisant Node.js et Express. Apprenez à gérer les routes, les requêtes et les réponses pour fournir des services API.",
+    "createdAt": "2025-04-09T17:00:00Z"
+  },
+  {
+    "id": "8",
+    "title": "Les bases du responsive design",
+    "description": "Un guide pour rendre vos sites web adaptatifs sur tous les appareils.",
+    "image": "/img/8.jpg",
+    "content": "Le responsive design permet à un site de s'adapter à différentes tailles d'écran. Apprenez à utiliser les media queries et les techniques de mise en page flexibles.",
+    "createdAt": "2025-04-10T08:00:00Z"
+  }
+]
